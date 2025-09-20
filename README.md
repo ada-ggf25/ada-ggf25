@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Grancho</h1>
-<h3 align="center">💡 A passionate software and machine-learning developer from Portugal 💡</h3>
+<h3 align="center">💡 A passionate software and machine-learning developer 💡</h3>
 
 - 🌐 Know about my experiences: [https://www.linkedin.com/in/guilhermegrancho/](https://www.linkedin.com/in/guilhermegrancho/)
 

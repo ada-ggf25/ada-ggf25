@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Guilherme Grancho
 
-## 💡 A passionate AI and Machine Learning Researcher 💡
+💡 A passionate AI and Machine Learning Researcher 💡
 
 </div>
 

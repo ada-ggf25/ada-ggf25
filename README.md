@@ -3,6 +3,8 @@
 
 - 🌐 Know about my experiences: [https://www.linkedin.com/in/guilhermegrancho/](https://www.linkedin.com/in/guilhermegrancho/)
 
+- 🌐 My LinkDIn: [https://www.linkedin.com/in/guilhermegrancho/](https://www.linkedin.com/in/guilhermegrancho/)
+
 - 📫 How to reach me: [guilhermegranchopro@gmail.com](mailto:guilhermegranchopro@gmail.com)
 
 <div>

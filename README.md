@@ -1,6 +1,10 @@
+<div align="center">
+
 # Hi 👋, I'm Guilherme Grancho
 
 ## 💡 A passionate AI and Machine Learning Researcher 💡
+
+</div>
 
 <div align="center">
 

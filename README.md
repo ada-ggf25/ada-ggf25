@@ -1,10 +1,5 @@
-<div align="center">
-
-# Hi 👋, I'm Guilherme Grancho
-
-💡 A passionate AI and Machine Learning Researcher 💡
-
-</div>
+<h1 align="center">Hi 👋, I'm Guilherme Grancho</h1>
+<h3 align="center">💡 A passionate AI and Machine-Learning Researcher 💡</h3>
 
 <div align="center">
 

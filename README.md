@@ -10,10 +10,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ada-ggf25&theme=dark&hide_border=false)

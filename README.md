@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Grancho</h1>
 <h3 align="center">💡 A passionate AI and Machine-Learning Researcher 💡</h3>
 
-- 🌐 Know about my experiences: [https://www.linkedin.com/in/guilhermegrancho/](https://www.linkedin.com/in/guilhermegrancho/)
+- 🌐 Know about my experiences: [https://guilherme-grancho-portfolio.vercel.app/](https://guilherme-grancho-portfolio.vercel.app/)
 
 - 🌐 My LinkDIn: [https://www.linkedin.com/in/guilhermegrancho/](https://www.linkedin.com/in/guilhermegrancho/)
 

@@ -18,6 +18,4 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ada-ggf25&theme=dark&hide_border=false)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ada-ggf25&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
 </div>

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Grancho</h1>
 <h3 align="center">💡 A passionate AI and Machine-Learning Researcher 💡</h3>
 
-<div align="center"> 
+<div align="center">
 
 [![Personal Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://guilherme-grancho-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermegrancho/)
